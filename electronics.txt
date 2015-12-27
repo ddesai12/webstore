@@ -1,0 +1,10 @@
+Laptop:1300.0:20
+Mobile:340.0:4
+Speakers:100.0:0
+Desktop:500.0:22
+Webcam:22.0:144
+PS4:400.0:40
+Xbox:450.0:53
+SmartTV:1000.0:41
+Controller:20.0:79
+phone:100.0:15

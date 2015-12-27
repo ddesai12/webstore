@@ -1,0 +1,12 @@
+Jeans:23:34
+T-shirt:34:5
+SweatPants:22:11
+Jacket:99:22
+Sweater:76:46
+Shirt:46:11
+Hoodie:56:29
+
+
+
+
+
